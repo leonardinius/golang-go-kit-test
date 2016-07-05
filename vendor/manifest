@@ -1,0 +1,30 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/go-kit/kit",
+			"repository": "https://github.com/go-kit/kit",
+			"revision": "46b7abc89d51ae89761da7b8a0f5f7d4b04de23b",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-logfmt/logfmt",
+			"repository": "https://github.com/go-logfmt/logfmt",
+			"revision": "d4327190ff838312623b09bfeb50d7c93c8d9c1d",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/go-stack/stack",
+			"repository": "https://github.com/go-stack/stack",
+			"revision": "100eb0c0a9c5b306ca2fb4f165df21d80ada4b82",
+			"branch": "master"
+		},
+		{
+			"importpath": "golang.org/x/net/context",
+			"repository": "https://go.googlesource.com/net",
+			"revision": "b400c2eff1badec7022a8c8f5bea058b6315eed7",
+			"branch": "master",
+			"path": "/context"
+		}
+	]
+}
